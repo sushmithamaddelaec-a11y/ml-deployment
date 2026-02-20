@@ -1,5 +1,2 @@
-flask
-scikit-learn 
-numpy
-joblib
-gunicorn
+Ifastapi
+uvicorn
